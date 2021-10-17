@@ -30,3 +30,9 @@
 <hr>
 <p align="center"><strong>Password Recovery Email Sample</strong></p>
 <p align="center"><img src="https://github.com/lsampath1995/CCMS/blob/476430589c06fd2dcd3db13b934b1909197e1c9c/Samples/mail.PNG"></p>
+<hr>
+<p align="center"><strong>Client Invoice Sample</strong></p>
+<p align="center"><img src="https://github.com/lsampath1995/CCMS/blob/f193fd1073cd64a3fb51a12f87b66f63b5fd1897/Samples/invoice.PNG"></p>
+<hr>
+<p align="center"><strong>Case Report Sample</strong></p>
+<p align="center"><img src="https://github.com/lsampath1995/CCMS/blob/f193fd1073cd64a3fb51a12f87b66f63b5fd1897/Samples/report.PNG"></p>
