@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{additional-methods, all, dataTables.bootstrap4, dataTables.responsive, dataTables.rowGroup, font-awesome, friconix, jquery-3.3.1.slim, jquery.dataTables, popper.js, responsive.bootstrap4, sweetalert}" />
+  </component>
+</project>
