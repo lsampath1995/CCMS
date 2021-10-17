@@ -28,8 +28,5 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-0B610B?style=plastic&logo=SCSS)
 ![FontAwesome](https://img.shields.io/badge/-FontAwesome-0B610B?style=plastic&logo=FontAwesome)
 <hr>
-<p align="center"><strong>Email Sample</strong></p>
-<p align="center"><img src="https://github.com/lsampath1995/CCMS/blob/16de7855ae3a8caf92fa7a8314413022771fa5a1/Samples/email.PNG"></p>
-
-https://docs.google.com/viewer?url=https://github.com/lsampath1995/CCMS/blob/496eb4f7f35cabdc05e59cf07bd98c00dd3310ed/Samples/1634496655.pdf
- 
+<p align="center"><strong>Password Recovery Email Sample</strong></p>
+<p align="center"><img src="https://github.com/lsampath1995/CCMS/blob/476430589c06fd2dcd3db13b934b1909197e1c9c/Samples/mail.PNG"></p>
