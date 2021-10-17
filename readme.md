@@ -31,5 +31,5 @@
 <p align="center"><strong>Email Sample</strong></p>
 <p align="center"><img src="https://github.com/lsampath1995/CCMS/blob/16de7855ae3a8caf92fa7a8314413022771fa5a1/Samples/email.PNG"></p>
 
-
+https://docs.google.com/viewer?url=https://github.com/lsampath1995/CCMS/blob/496eb4f7f35cabdc05e59cf07bd98c00dd3310ed/Samples/1634496655.pdf
  
