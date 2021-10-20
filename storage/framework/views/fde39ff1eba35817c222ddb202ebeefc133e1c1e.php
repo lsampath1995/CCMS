@@ -1,4 +1,4 @@
-<?php echo '<br><img src="https://i.ibb.co/6XtgthP/logo.png" style="padding-left: 465px" />'; ?>
+<?php echo '<br><img src="https://i.ibb.co/6XtgthP/logo.png" style="padding-left: 465px"  alt="logo"/>'; ?>
 <?php $__env->startComponent('mail::message'); ?>
 
 <?php if (!empty($greeting)): ?>
