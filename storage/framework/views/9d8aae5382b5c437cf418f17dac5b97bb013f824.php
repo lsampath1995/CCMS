@@ -1,11 +1,22 @@
+<<<<<<< HEAD
 <?php $__env->startSection('title', 'Client'); ?>
 <?php $__env->startSection('content'); ?>
+<div class="">
+    <?php $__env->startComponent('component.heading', [
+        'page_title' => 'Clients List',
+        'action' => route('clients.create'),
+        'text' => 'Add Client',
+        'permission' => $adminHasPermition->can(['client_add'])
+            =======
+<?php $__env->startSection('title', 'Client'); ?>
+    <?php $__env->startSection('content'); ?>
     <div class="">
         <?php $__env->startComponent('component.heading', [
             'page_title' => 'Clients List',
             'action' => route('clients.create'),
             'text' => 'Add Client',
             'permission' => $adminHasPermition->can(['client_add'])
+                >>>>>>> origin / main
         ]); ?>
         <?php echo $__env->renderComponent(); ?>
         <br><br><br>
@@ -31,9 +42,14 @@
             </div>
         </div>
     </div>
-<?php $__env->stopSection(); ?>
-<?php $__env->startPush('js'); ?>
+    <?php $__env->stopSection(); ?>
+    <?php $__env->startPush('js'); ?>
     <script src="<?php echo e(asset('assets/js/client/client-datatable.js')); ?>"></script>
-<?php $__env->stopPush(); ?>
+    <?php $__env->stopPush(); ?>
+    <<<<<<< HEAD
 
-<?php echo $__env->make('admin.layout.app', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH E:\Xampp\htdocs\resources\views/admin/client/client.blade.php ENDPATH**/ ?>
+    <?php echo $__env->make('admin.layout.app', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH E:\Xampp\htdocs\resources\views/admin/client/client.blade.php ENDPATH**/ ?>
+    =======
+
+    <?php echo $__env->make('admin.layout.app', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH E:\Xampp\htdocs\resources\views/admin/client/client.blade.php ENDPATH**/ ?>
+    >>>>>>> origin/main

@@ -7,9 +7,7 @@
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation">
                             <tr>
                                 <td>
-                                    <a href="<?php echo e($url); ?>"
-                                       class="button button-<?php echo e($color ?? 'primary'); ?>"
-                                       target="_blank"><?php echo e($slot); ?></a>
+                                    <a href="<?php echo e($url); ?>" class="button button-<?php echo e($color ?? 'primary'); ?>" target="_blank"><?php echo e($slot); ?></a>
                                 </td>
                             </tr>
                         </table>
