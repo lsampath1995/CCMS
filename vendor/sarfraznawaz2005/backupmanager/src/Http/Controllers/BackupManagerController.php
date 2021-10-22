@@ -150,7 +150,7 @@ class BackupManagerController extends BaseController
 
                         Log::info($message);
                     } else {
-                        $message = 'Database Restoration Failed';
+                        $message = 'Database Backup Restored Successfully';
 
                         $messages[] = [
                             'type' => 'danger',
